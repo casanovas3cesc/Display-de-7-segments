@@ -14,7 +14,7 @@ const int E = 9;          // donar nom al pin 9 de l’Arduino
 const int F = 10;         // donar nom al pin 10 de l’Arduino
 const int G = 11;         // donar nom al pin 11 de l’Arduino
 
-unsigned long temp = 200;
+unsigned long temp = 1000;
 //********** Setup ****************************************************************
 void setup()
 {

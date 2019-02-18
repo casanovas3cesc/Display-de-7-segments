@@ -60,7 +60,7 @@ void loop()
 
 
 
-  digitalWrite(A, HIGH);    // C
+  digitalWrite(A, HIGH);    // S
   digitalWrite(B, LOW);    // posar a 5V el pin 6
   digitalWrite(C, HIGH);    // posar a 5V el pin 7
   digitalWrite(D, HIGH);    // posar a 5V el pin 8
